@@ -1,1 +1,1 @@
-kappa123
+Practice implementations of RL algos from David Silver's course using OpenAI gym environments.
